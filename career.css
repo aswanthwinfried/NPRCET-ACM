@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .text1{
+    font-family: "Inria Sans", serif;
+    color: #0893CF;
+    padding: 100px;
+}
+*/
+.video-container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.vid{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}

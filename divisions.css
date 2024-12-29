@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nprcet-acm{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.if-link{
+    filter: drop-shadow(10px 10px 10px rgb(11, 81, 128));
+}
